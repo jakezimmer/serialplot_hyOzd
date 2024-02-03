@@ -1,4 +1,4 @@
-This folder contains releases for the serial plotter.
+# This folder contains releases for the serial plotter.
 
 The windows one is called ```serialplot-0.12.0-win32.exe```
 
